@@ -1,0 +1,55 @@
+{
+  "pair_sha256": {
+    "2514b8cdc485f1e2": {
+      "image": "bcda6b8a1e1bb7f5faae513001a8c494616aa90ecc24cef70879cd3ef2cc6659",
+      "mask": "96becc4068d9583d2ec1863efe7013b2b205070f229dc6149db4b55ce91baf40"
+    },
+    "5b640929ff57d3d0": {
+      "image": "f0f937409c2dba38913284b646720f13973a4f558e6fca8764dc56317fbb9343",
+      "mask": "4808fa96c94ad307272de3aa88f30424f7aebb89ac2e12bbff426d5ea507c00c"
+    },
+    "5fe2c6a75e293a35": {
+      "image": "fca14bffd764e456501d0900495d21a695d70374fc66e2e9d7f9527ea5ea9405",
+      "mask": "cc0e8802bcac3834f25053499a38a62a0f6b40adc0926ad7bce11cd13d690a5f"
+    },
+    "754fda02b6b4b878": {
+      "image": "2c30e8ee3f92ac25205c877c2415a7182ef76fa5114664f0540c246e8295afd4",
+      "mask": "f7fd019fc104f6da0283f1ea4632a783624003fe0231f6fe530b065bf4c0d96e"
+    },
+    "79aa875ba9c773d5": {
+      "image": "70e00c9879d58b40f81cc652710677f8621531d92edde0e2c37e2f5ddfabbad0",
+      "mask": "fe2e640f8a4b88711efd82d7aa9797fa949a9835262fc97cc232ba960dee9379"
+    },
+    "83de78c74f8ebc19": {
+      "image": "aa47d51c97029e5c1d3b9eb2655e973f8d19735aebaad2f239231e0ec34fd63d",
+      "mask": "53a9dd72617388247519c803f8a47203b279edf951266c29798860d2f55240b4"
+    },
+    "92ab9181663f2ad2": {
+      "image": "0c7e5d7c0be3ec51eb31d5f6d25927af57bee7d2729450ca2db071dff492d936",
+      "mask": "c01032b4f276c0d6ad6c1a3ca138b1a526584ae41b82c103320917c1ee99561c"
+    },
+    "ac42b7a68b92936e": {
+      "image": "7124e7d7a6eb294e87483fe84f8cc43f4800b1ae146b3114f6ac5f57d5dc7191",
+      "mask": "28c44d15b21f6c5fd9ed8cb8efeb0183985081abae70fc9c3c9190a669c1e518"
+    },
+    "b311a433b6e3e1f9": {
+      "image": "b90769ffedf29573f80beaceae55c744b00f50260307cb1536f54407c8fcff60",
+      "mask": "46deaa369fe07cc71091834d61a347c870a5351d78ecfee855504ed0e130e1bc"
+    },
+    "d907e37397dafa64": {
+      "image": "f7ef3bdb623d0add5b7e1772cb8c452c5c9ca218683b84ab78579ed63181b926",
+      "mask": "889d93e915b0e3edb257386e63a88f42c6d75bb6e2dada0918f12317a99166dd"
+    },
+    "da0016acec578f05": {
+      "image": "b4444790abfa7a93ac61240e159208d681d160f627cc79b22ec9b85467e2ece4",
+      "mask": "c5800d1d4770325dead3ae2941909965c53eefe3b9f1e38dbea86a17c2f9a79b"
+    },
+    "ee3603fd59801ca2": {
+      "image": "0335c9d37c0b4aa28fa24145b45ae713398c38f2b09018f77e0c5d7aeda021cd",
+      "mask": "96073a8dfd504d6ad3b947693642e99fbc679ec6b1e14d46d055f47b8751b2f7"
+    }
+  },
+  "selected_pairs": 12,
+  "selection": "One deterministic hash-ranked member per nonempty split/stage plus all aliases and the ambiguous original",
+  "status": "PASS"
+}

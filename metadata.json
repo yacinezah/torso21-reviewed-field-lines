@@ -1,0 +1,48 @@
+{
+  "class_values": {
+    "0": "background",
+    "127": "visible painted field line",
+    "255": "exclusive field"
+  },
+  "exposure": "All rows entered historical SEG-R1 refit; not an untouched benchmark.",
+  "independent_audit": "NOT_RUN",
+  "license_notice": "LICENSES/TORSO-21-MIT.txt",
+  "manifest_sha256": "5ec92afdec1ac40cd2004fab88b88c50bfbcd12115601d57ff3a61ecdb953f3d",
+  "modified": 1965,
+  "name": "TORSO-21 reviewed field-line annotation overlay",
+  "parquet_sha256": "989af990bec1aba39350dfd0b9a32067ece96fa7c125e0f2eb40b51ee6a73dfe",
+  "publication_url": "https://github.com/yacinezah/torso21-reviewed-field-lines/releases/tag/v0.1.0",
+  "review_attribution": "Yacine Zahouani, ITAndroids internship; includes reviewed model suggestions",
+  "row_count": 2400,
+  "schema_version": 1,
+  "source_archive": {
+    "test": {
+      "bytes": 850628154,
+      "etag": "\"69501e06-32b38e3a\"",
+      "last_modified": "Sat, 27 Dec 2025 17:57:26 GMT",
+      "transferred": 350453,
+      "url": "https://data.bit-bots.de/TORSO-21/reality/test.zip"
+    },
+    "train": {
+      "bytes": 4821689169,
+      "etag": "\"69501e7e-11f652351\"",
+      "last_modified": "Sat, 27 Dec 2025 17:59:26 GMT",
+      "transferred": 2011509,
+      "url": "https://data.bit-bots.de/TORSO-21/reality/train.zip"
+    }
+  },
+  "status": "public_release",
+  "unchanged": 435,
+  "upstream_authors": [
+    "Marc Bestmann",
+    "Timon Engelke",
+    "Niklas Fiedler",
+    "Jasper G\u00fcldenstein",
+    "Jan Gutsche",
+    "Jonas Hagge",
+    "Florian Vahl"
+  ],
+  "upstream_commit": "3daaf45926f08d082ebf23200818ee94adf29d5b",
+  "upstream_repository": "https://github.com/bit-bots/TORSO_21_dataset",
+  "version": "0.1.0"
+}

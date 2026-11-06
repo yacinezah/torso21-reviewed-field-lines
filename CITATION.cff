@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Cite this overlay by version and manifest hash, and cite the original TORSO-21 dataset."
+title: "TORSO-21 reviewed field-line annotations"
+type: dataset
+version: 0.1.0
+date-released: 2026-11-06
+url: "https://github.com/yacinezah/torso21-reviewed-field-lines/releases/tag/v0.1.0"
+repository-code: "https://github.com/yacinezah/torso21-reviewed-field-lines"
+license: MIT
+authors:
+  - family-names: Zahouani
+    given-names: Yacine
+references:
+  - type: conference-paper
+    title: "TORSO-21 Dataset: Typical Objects in RoboCup Soccer 2021"
+    year: 2021
+    collection-title: "RoboCup 2021: Robot World Cup XXIV"
+    url: "https://github.com/bit-bots/TORSO_21_dataset"
+    authors:
+      - {family-names: Bestmann, given-names: Marc}
+      - {family-names: Engelke, given-names: Timon}
+      - {family-names: Fiedler, given-names: Niklas}
+      - {family-names: Güldenstein, given-names: Jasper}
+      - {family-names: Gutsche, given-names: Jan}
+      - {family-names: Hagge, given-names: Jonas}
+      - {family-names: Vahl, given-names: Florian}

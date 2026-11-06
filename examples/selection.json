@@ -1,0 +1,54 @@
+{
+  "examples": [
+    {
+      "category": "byte_encoding_only",
+      "id": "4c52f8ee95dce75e",
+      "pool_count": 309,
+      "rule": "Unchanged classes and no decoded raw value changes"
+    },
+    {
+      "category": "palette_only",
+      "id": "4d7964b641a25e52",
+      "pool_count": 126,
+      "rule": "Unchanged classes, but raw values changed"
+    },
+    {
+      "category": "small_edit",
+      "id": "f0e3c443f0736c8f",
+      "pool_count": 481,
+      "rule": "Positive semantic edit at most 0.5 percent"
+    },
+    {
+      "category": "medium_edit",
+      "id": "754fda02b6b4b878",
+      "pool_count": 1060,
+      "rule": "More than 0.5 through 2 percent semantic edit"
+    },
+    {
+      "category": "large_edit",
+      "id": "97eae55a0fa90cbf",
+      "pool_count": 423,
+      "rule": "More than 2 percent semantic edit"
+    },
+    {
+      "category": "new_line",
+      "id": "ec4b44bd855b55e3",
+      "pool_count": 88,
+      "rule": "No original line pixels, reviewed has line pixels"
+    },
+    {
+      "category": "removed_line",
+      "id": "8e7da9ea4bd2777c",
+      "pool_count": 6,
+      "rule": "Original has line pixels, reviewed has none"
+    },
+    {
+      "category": "ambiguous_original",
+      "id": "79aa875ba9c773d5",
+      "pool_count": 1,
+      "rule": "Original has unresolved low gray values"
+    }
+  ],
+  "scope": "Change illustrations, no reviewer or quality selection; RGB is rendered locally only",
+  "selection": "Category order above, deterministic hash rank with disjoint examples"
+}

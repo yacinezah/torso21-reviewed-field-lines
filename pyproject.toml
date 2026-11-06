@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools==82.0.1", "wheel==0.46.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "torso-line-corrections"
+version = "0.1.0"
+description = "An auditable overlay for reviewed TORSO-21 field-line masks"
+requires-python = ">=3.11"
+dependencies = ["numpy==2.4.4", "Pillow==12.2.0"]
+
+[project.optional-dependencies]
+analysis = ["scipy==1.17.1", "scikit-image==0.26.0", "opencv-python-headless==4.13.0.92", "pyarrow==23.0.1", "matplotlib==3.10.9"]
+
+[project.urls]
+Repository = "https://github.com/yacinezah/torso21-reviewed-field-lines"
+Release = "https://github.com/yacinezah/torso21-reviewed-field-lines/releases/tag/v0.1.0"
+
+[tool.setuptools.packages.find]
+include = ["torso_line_corrections*"]
